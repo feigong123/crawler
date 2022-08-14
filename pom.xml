@@ -16,7 +16,7 @@
     </parent>
 
     <build>
-        <finalName>com.xu.binance</finalName>
+        <finalName>com.xu.crawler</finalName>
     </build>
 
     <dependencies>
