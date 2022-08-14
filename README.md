@@ -1,2 +1,2 @@
 # crawler
-To analysis a list of a URLs given by the user according to text
+To analysis a list of URLs given by the user according to text
